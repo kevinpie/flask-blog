@@ -1,4 +1,4 @@
-#sql.py - Create a SQLite3 table and popluate it with data
+# sql.py - Create a SQLite3 table and popluate it with data
 
 import sqlite3
 
